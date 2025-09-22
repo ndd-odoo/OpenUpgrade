@@ -94,7 +94,7 @@ merged_modules = {
     "l10n_vn_viin_account_qr_code_emv": "l10n_vn",
     "l10n_vn_viin_accounting_sinvoice_patch1": "l10n_vn_viin_accounting_sinvoice",
     "l10n_vn_viin_edi_patch2": "l10n_vn_viin_edi",
-    "l10n_vn_viin_edi_patch3": "l10n_vn_viin_edi",
+    "l10n_vn_viin_edi_patch3": "l10n_vn_viin_edi_patch1",
     "to_hr_payroll_patch1": "to_hr_payroll",
     "to_hr_timesheet_payroll_patch1": "to_hr_timesheet_payroll",
     "to_location_warehouse": "viin_stock",
